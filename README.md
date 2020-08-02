@@ -10,7 +10,7 @@ This is a specialization on
 [Coursera](https://www.coursera.org/specializations/introduction-applied-cryptography) 
 which contains the following 4 courses:
 
-1. [Classical CryptoSystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems) [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts)
+1. [Classical CryptoSystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems) [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts) [🎓](https://www.coursera.org/verify/7FVGRVKAFW73)
 1. [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography)
 1. [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto)
 1. [Assymetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
