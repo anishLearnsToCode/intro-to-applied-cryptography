@@ -15,6 +15,7 @@ which contains the following 4 courses:
    [🎓](http://coursera.org/verify/ZPQF7QGV22XT)
 1. [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto) 
    [:octocat:](https://github.com/anishLearnsToCode/symmetric-cryptography)
+   [🎓](http://coursera.org/verify/KPJPY9LZAFBP)
 1. [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
