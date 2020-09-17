@@ -17,5 +17,6 @@ which contains the following 4 courses:
    [:octocat:](https://github.com/anishLearnsToCode/symmetric-cryptography)
    [🎓](http://coursera.org/verify/KPJPY9LZAFBP)
 1. [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
+   [:octocat:](https://github.com/anishLearnsToCode/asymmetric-cryptography-key-management)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
