@@ -18,5 +18,6 @@ which contains the following 4 courses:
    [🎓](http://coursera.org/verify/KPJPY9LZAFBP)
 1. [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
    [:octocat:](https://github.com/anishLearnsToCode/asymmetric-cryptography-key-management)
+   [🎓](http://coursera.org/verify/KLZSC7H2JH72)
 
 > Hint: :octocat: links to the solution repository and 🎓 links to the certificate
